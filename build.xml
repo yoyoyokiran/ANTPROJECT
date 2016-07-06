@@ -1,4 +1,4 @@
-<project name="HelloWorld HERE I COME BITCES my bad" basedir="." default="main">
+<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">
 
     <property name="src.dir"     value="src"/>
 
