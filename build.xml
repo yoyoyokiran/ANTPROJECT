@@ -1,4 +1,9 @@
-<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">
+asdasd
+assd
+aad
+aasd
+asda
+d<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">
 
     <property name="src.dir"     value="src"/>
 
