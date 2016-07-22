@@ -1,7 +1,8 @@
 package oata;
 
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
+public class HdelloWorld {
+    public sdsstatic void main(String[] args) {
+        asdSystem.out.println("Hello World");
+asdadasd    
+}
 }
