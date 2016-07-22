@@ -1,6 +1,12 @@
-<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main HEAD
+asdasd
+assd
+aad
+aasd
+asda
+d<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">
+
     <property name="src.dir"     value="src"/>
-made modification in master nosamplebranch
+made modification in master notig sddaasdasdasdasdaada
     <property name="build.dir"   value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
     <property name="jar.dir"     value="${build.dir}/jar"/>

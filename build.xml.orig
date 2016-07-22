@@ -1,6 +1,11 @@
-<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main HEAD
+<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">
+
+<<<<<<< HEAD
     <property name="src.dir"     value="src"/>
-made modification in master nosamplebranch
+made modification in master notig
+=======
+    <property name="src.dir"
+>>>>>>> samplebranch
     <property name="build.dir"   value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
     <property name="jar.dir"     value="${build.dir}/jar"/>
