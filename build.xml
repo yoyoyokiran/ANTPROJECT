@@ -1,5 +1,5 @@
 <project name="HelloWorld HERE I COME BITCES "  basedir="." default="main HEAD
-    <property name="src.dir"     value="src"/>
+    <property name="src.dir">made some moidifications in branch..1`
 made modification in master nosamplebranch
     <property name="build.dir"   value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
