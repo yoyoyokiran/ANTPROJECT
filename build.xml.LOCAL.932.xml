@@ -1,12 +1,12 @@
-<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main HEAD
-    <property name="src.dir">made some moidifications in branch..1`
-made modification in master nosamplebranch
-    <property name="build.dir"   value="build"/>
-    <property name="classes.dir" value="${build.dir}/classes"/>
+<project name="HelloWorld HERE I COME BITCES "  basedir="." default="main">sds
+    <property name="src.dir"     value="src"/>sdadadsdssdsd in second
+dsdasdsdads
+    <properddsdty name="build.dir"   value="build"/>
+    <property nddsame="classes.dir" value="${build.dir}/classes"/>
     <property name="jar.dir"     value="${build.dir}/jar"/>
 
     <property name="main-class"  value="oata.HelloWorld"/>
-		
+
  
     <target name="clean">
         <delete dir="${build.dir}"/>
